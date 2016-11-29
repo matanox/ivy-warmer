@@ -18,7 +18,7 @@ lazy val commonSettings = Seq(
   //promptTheme := Scalapenos,
   version := "0.1-SNAPSHOT",
   organization := "none",
-  scalaVersion := "2.11.7",
+  scalaVersion := "2.11.8",
   /* unit tests */
   libraryDependencies += "com.lihaoyi" %% "utest" % "0.4.3" % "test",
   testFrameworks += new TestFramework("utest.runner.Framework"),
