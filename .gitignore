@@ -1,0 +1,16 @@
+*.log
+target
+.idea
+.idea_modules
+.classpath/
+.project
+.settings
+/RUNNING_PID
+*.lock
+.sbtserver
+/bin/
+.cache*
+.~lock*
+data-out
+data-cache*/*
+nohup.out*
